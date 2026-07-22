@@ -54,7 +54,7 @@ Employee attrition is one of the most critical challenges faced by organizations
 
 ### Dashboard 1 – Executive Overview & Attrition
 
-![Executive Overview & Attrition Dashboard](Images/Executive%20Overview%20%26%20Attrition%20Dashboard.png)
+![Executive Overview & Attrition Dashboard](Images/Executive%20Overview%20%26%20Attrition%20dashboard.png)
 
 ---
 
@@ -62,7 +62,6 @@ Employee attrition is one of the most critical challenges faced by organizations
 
 ![Employee Insights Dashboard](Images/Employee%20Insights.png)
 
-> **Note:** Replace the image filenames above with your actual dashboard screenshot filenames stored in the `Images` folder.
 
 ---
 
